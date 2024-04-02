@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#19C81F</color>
+    <color name="red">#9C0000</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="progressBar_1">#4CB5F5</color>
+    <color name="progressBar_2">#81C7F3</color>
+    <color name="progressBar_3">#B8B6B6</color>
+    <color name="progressBar_4">#FFEB3B</color>
+    <color name="progressBar_5">#12FB12</color>
+    <color name="progressBar_6">#CA0909</color>
+</resources>
